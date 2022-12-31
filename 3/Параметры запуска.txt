@@ -1,0 +1,1 @@
+input1=in.txt input2=operations.txt output1=result.txt
